@@ -1,0 +1,30 @@
+{
+  "author": "Matt McKellar-Spence",
+  "bin": {
+    "cshelp": "./bin/cshelp"
+  },
+  "bugs": {
+    "url": "https://github.com/MattMS/cshelp/issues"
+  },
+  "description": "Javascript help.",
+  "devDependencies": {
+    "coffee-script": "^1.9.2"
+  },
+  "homepage": "https://github.com/MattMS/cshelp",
+  "keywords": [
+    "CoffeeScript",
+    "help",
+    "man"
+  ],
+  "license": "MIT",
+  "main": "./bin/cshelp",
+  "name": "cshelp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattMS/cshelp.git"
+  },
+  "scripts": {
+    "test": "coffee test/main.coffee.md"
+  },
+  "version": "0.1.0"
+}
