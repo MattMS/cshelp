@@ -6,7 +6,7 @@
   "bugs": {
     "url": "https://github.com/MattMS/cshelp/issues"
   },
-  "description": "Javascript help.",
+  "description": "CoffeeScript help.",
   "devDependencies": {
     "coffee-script": "^1.9.2"
   },
@@ -26,5 +26,5 @@
   "scripts": {
     "test": "coffee test/main.coffee.md"
   },
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
